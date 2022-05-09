@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067108692684",
+    "project_id": "mupit-a36bd",
+    "storage_bucket": "mupit-a36bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067108692684:android:2960a1e0d0e4a7c6788869",
+        "android_client_info": {
+          "package_name": "com.example.mupit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067108692684-b9jpc5tjk0o5raaulji41qc16tqpn2j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR94bjo9aOsbWDFnJt0ziu-ccFF9GW2Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067108692684-b9jpc5tjk0o5raaulji41qc16tqpn2j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
